@@ -11,7 +11,7 @@ Für die Masterthesis wird eine App mit Hilfe von drei verschiedenen JavaScript 
 [SaarClimb mit SvelteKit auf GitHub](https://github.com/kreutzermaik/saarclimb-sveltekit)
 
 ### SolidStart
-Upcoming...
+[SaarClimb mit SolidStart auf GitHub](https://github.com/kreutzermaik/saarclimb-solidstart)
 
 ### Next.js
 Upcoming...
